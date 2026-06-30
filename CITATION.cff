@@ -1,0 +1,22 @@
+# CITATION.cff — place in root of hphp_cardio repo
+cff-version: 1.2.0
+title: "HPHP-Cardio: A Hierarchical Port-Hamiltonian Pairformer for Drug-Induced Cardiotoxicity Prediction"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+version: 1.0.0
+date-released: "2026-07-01"
+authors:
+  - family-names: Sellapandian
+    given-names: Sonale
+    affiliation: "J.K.K. Nattraja College of Pharmacy"
+  - family-names: Albert R
+    given-names: Vasanth
+    affiliation: "J.K.K. Nattraja College of Pharmacy"
+  - family-names: Nallasamy
+    given-names: Venkateswaramurthy
+    affiliation: "J.K.K. Nattraja College of Pharmacy"
+  - family-names: Pillai
+    given-names: Vinayagam
+    affiliation: "Independent Researcher, Princeton, New Jersey, USA"
+license: MIT
+repository-code: "https://github.com/HierarchicalPortHamiltonianPairformer/hphp_cardio"
