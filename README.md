@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1266703383.svg)](https://doi.org/10.5281/zenodo.21086450)
 # HPHP-Cardio
 **A Hierarchical Port-Hamiltonian Pairformer Predicts Drug-Induced Arrhythmia Risk Under Clinical Out-of-Distribution Conditions Without Retraining**
 
